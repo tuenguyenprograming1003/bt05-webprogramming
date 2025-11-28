@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE decorators PUBLIC "-//Sitemesh//DTD Decorators 2.0//EN"
+        "http://www.opensymphony.com/sitemesh/decorators_2_0.dtd">
+<decorators>
+    <decorator name="main" page="/WEB-INF/views/layout.jsp">
+        <pattern>/*</pattern>
+    </decorator>
+</decorators>
+
